@@ -10,7 +10,7 @@ import warnings
 import time
 
 """
-ML STOCK PREDICTION PROGRAM
+ML STOCK PREDICTION PROGRAM 
 
 Fetches historical stock price data from the Databento Historical API and uses machine learning to predict
 the closing price for a given symbol in recent weeks.
