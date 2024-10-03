@@ -1,5 +1,5 @@
 """
-SHOPPING LIST GENERATOR
+SHOPPING LIST GENERATOR 
 
 Whenever I meal prep, I deal with a lot of recipes that overlap in terms of their ingredients.
 This simple program combines all your recipes into a single shopping list.
