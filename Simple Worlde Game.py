@@ -1,6 +1,6 @@
 from random import choice
 
-"""WORLDE GAME"""
+"""WORLDE GAME""" 
 
 # readWords(filename) takes a single value, a string,
 # the name of a file that contains a list of 5-letter words (one per
