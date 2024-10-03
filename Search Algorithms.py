@@ -2,7 +2,7 @@
 def depthFirstSearch(graph, start):
     """
     graph: Graph represented as a dictionary
-    start: Starting vertex
+    start: Starting vertex 
     """
     visited, stack = set(), [start]
     while stack:
