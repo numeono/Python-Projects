@@ -1,7 +1,7 @@
 
 # Use the Sieve of Eratosthenes algorithm to find all prime numbers up to n.
 def findPrimeNumbers(n):
-    """
+    """ 
     n: Number up to which to find primes
     """
     sieve = [True] * (n+1)
